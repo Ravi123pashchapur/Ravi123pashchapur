@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ravi123pashchapur.Ravi123pashchapur" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Ravi+Pashchapur!;+Welcome+to+My+Digital+Workspace!+😀;&color=f5f5f5" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Ravi+Pashchapur!;+Welcome+to+My+Digital+Workspace!+😀;&color=white" />
 </h1>
 <div align="center">
 Welcome to my GitHub profile! I'm a passionate Aerospace slash UTM research Engineer with a deep interest in control systems, optimal theory and unmanned traffic management projects. I invite you to have a look on projects!
