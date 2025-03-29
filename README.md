@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Ravi+Pashchapur!;+Welcome+to+My+Digital+Workspace!+😀;&color=white" />
 </h1>
 <div align="center">
-Welcome to my GitHub profile! I'm a passionate Aerospace slash UTM research Engineer with a deep interest in control systems, optimal theory and unmanned traffic management projects. I invite you to have a look on projects!
+Welcome to my GitHub profile! I'm a passionate Aerospace slash UTM research Engineer with a deep interest in  AI, control systems, optimal theory and unmanned traffic management projects. I invite you to have a look on projects!
 </div>
 
 <h2 align="center">⚒️ My Toolbox ⚒️</h2>
